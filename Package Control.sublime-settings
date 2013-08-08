@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"Emacs-like Modelines",
+		"GitGutter",
+		"Gitignore",
+		"Package Control",
+		"Theme - Soda"
+	]
+}
